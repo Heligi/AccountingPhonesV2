@@ -3,4 +3,12 @@
     <string name="createFile">Добавить файл</string>
     <string name="deleteFile">Удалить файл</string>
     <string name="options">Настройки</string>
+    <string name="insertNameFile">Введите название файла</string>
+    <string name="save">Сохранить</string>
+    <string name="date">Дата</string>
+    <string name="idText">Номер акта</string>
+    <string name="model">Модель</string>
+    <string name="repairs">Вид ремонта</string>
+    <string name="price">Цена</string>
+    <string name="priceDetail">Цена запчасти</string>
 </resources>

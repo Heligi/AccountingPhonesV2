@@ -12,8 +12,4 @@
         android:id="@+id/options_settings"
         android:orderInCategory="3"
         android:title="@string/options" />
-    <item
-        android:id="@+id/add"
-        android:orderInCategory="4"
-        android:title="Add" />
 </menu>
